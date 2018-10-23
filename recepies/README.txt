@@ -4,3 +4,4 @@ pre-made pastry
 3 tablespoons flour
 1 cup sugar
 8 granayr smit apple
+Lisa har uppdaterat
