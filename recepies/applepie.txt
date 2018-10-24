@@ -5,5 +5,9 @@ pre-made pastry
 Hej Majid hoppas du gillade.
 
 yes jag gillade det.
+<<<<<<< HEAD
 
 dhdhen sak till
+=======
+en sak till
+>>>>>>> e9f07900fdf476fd0850e9b45411f0232add44aa
